@@ -1,0 +1,4 @@
+﻿  ResourceManager.cpp
+c:\users\pierre\source\repos\resourcemanager\resourcemanager\resourcemanager.cpp(58): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+c:\users\pierre\source\repos\resourcemanager\resourcemanager\resourcemanager.cpp(113): warning C4101: 'si' : variable locale non référencée
+  ResourceManager.vcxproj -> C:\Users\Pierre\source\repos\ResourceManager\Debug\ResourceManager.exe
